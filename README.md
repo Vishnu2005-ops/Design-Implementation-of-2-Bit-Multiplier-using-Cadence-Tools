@@ -1,5 +1,5 @@
 # Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+Ex No: 06     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![WhatsApp Image 2024-11-14 at 13 58 46](https://github.com/user-attachments/assets/3371d175-e90a-45f1-b3c1-67447b94caf2)
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +65,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![WhatsApp Image 2024-11-14 at 13 58 43 (2)](https://github.com/user-attachments/assets/7a199260-0e20-41f6-a7d6-83f6698b9ae1)
 
 
 
@@ -80,7 +80,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![WhatsApp Image 2024-11-14 at 13 58 43 (3)](https://github.com/user-attachments/assets/13baab00-f679-433d-a50b-8d333f2096b1)
 
  
 
@@ -95,14 +95,14 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![WhatsApp Image 2024-11-14 at 13 58 44](https://github.com/user-attachments/assets/ac88f211-32e4-4ae2-970d-418d15933563)
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![WhatsApp Image 2024-11-14 at 13 58 45](https://github.com/user-attachments/assets/23e70e70-ef26-4aae-ab57-5dfba084ddcf)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![WhatsApp Image 2024-11-14 at 13 58 44 (1)](https://github.com/user-attachments/assets/dc3913a5-ba66-44a9-8d75-7218e3e20c5f)
 
   
 
